@@ -56,13 +56,3 @@ font-weight: 700;
     background-color: hsl(75, 94%, 57%);
     color: hsl(0, 0%, 8%);
 }
-.attribution {
-    background-color: hsl(0, 0%, 20%);
-    text-align: center;
-    padding: 20px;
-    color: hsl(0, 0%, 100%);
-    font-weight: 700;
-}
-.attribution a {
-    color: hsl(0, 0%, 100%);
-}
